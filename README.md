@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darshan Sivakumar</h1>
 <h3 align="center">A passionate Frontend & Web Developer from India 🇮🇳</h3>
-
+<br><br><br><br>
 <img align="right" alt="Coding" width="170" style="pa"
 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FleTA4YzNscnF2emNkM2ExZTZsN2cwc2xheG92dGlpNmx1OXNzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
 <br><br><br><br>
