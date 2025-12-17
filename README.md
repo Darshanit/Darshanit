@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend & Web Developer from India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="200"
-src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FleTA4YzNscnF2emNkM2ExZTZsN2cwc2xheG92dGlpNmx1OXNzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FleTA4YzNscnF2emNkM2ExZTZsN2cwc2xheG92dGlpNmx1OXNzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/ style="padding-top: 20%">
 
 ---
 
